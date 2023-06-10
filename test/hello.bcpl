@@ -1,0 +1,6 @@
+GET "LIBHDR"
+
+LET START() BE
+$(
+  WRITES("HELLO WORLD*N")
+$)
